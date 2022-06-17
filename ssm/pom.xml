@@ -156,7 +156,7 @@
     <dependency>
       <groupId>com.alibaba</groupId>
       <artifactId>fastjson</artifactId>
-      <version>1.2.13</version>
+      <version>1.2.83</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/commons-codec/commons-codec-->
     <!--用于摘要运算、编码解码的包,常见的编码解码工具Base64、MD5、Hex、SHA1、DES等-->
